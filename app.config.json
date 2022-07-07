@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "@react-native-firebase/app",
+  ],
+  "android": {
+    "package": "com.man_ssorr.instagramclone",
+    "googleServicesFile": "./google-services.json"
+
+  }
+}
